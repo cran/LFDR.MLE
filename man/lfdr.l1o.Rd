@@ -76,6 +76,6 @@ z3<-lfdr.lo(x=W,df=dfx,v=1/3,fixed.p0=0.3)
 \keyword{ LFDR-LHO }
 \keyword{ Leave-one-out }
 \keyword{ Leave-half-out }
-\keyword{\code{lfdr.l1o}}
-\keyword{\code{lfdr.lho}}
-\keyword{\code{lfdr.lo}}
+\keyword{lfdr.l1o}
+\keyword{lfdr.lho}
+\keyword{lfdr.lo}

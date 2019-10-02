@@ -81,5 +81,5 @@ z3<-lfdr.mle(x=W,df=dfx,dFUN=new.df,df2=5)
 \keyword{ Type II MLE }
 \keyword{ Type II Maximum Likelihood Estimates }
 \keyword{ Leave-zero-out }
-\keyword{\code{lfdr.mle}}
+\keyword{lfdr.mle}
 %\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

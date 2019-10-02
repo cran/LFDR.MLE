@@ -71,5 +71,5 @@ z3<-lfdr.mdlo(x=W,df=dfx,v=1/3,fixed.p0=0.3)
 \keyword{ MDL }
 \keyword{ LFDR-MDL }
 \keyword{ Minimum Description Length }
-\keyword{\code{lfdr.mdl}}
-\keyword{\code{lfdr.mdlo}}
+\keyword{lfdr.mdl}
+\keyword{lfdr.mdlo}
